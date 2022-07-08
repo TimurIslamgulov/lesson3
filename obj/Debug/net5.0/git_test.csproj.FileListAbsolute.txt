@@ -1,0 +1,16 @@
+C:\git_test\bin\Debug\net5.0\git_test.exe
+C:\git_test\bin\Debug\net5.0\git_test.deps.json
+C:\git_test\bin\Debug\net5.0\git_test.runtimeconfig.json
+C:\git_test\bin\Debug\net5.0\git_test.runtimeconfig.dev.json
+C:\git_test\bin\Debug\net5.0\git_test.dll
+C:\git_test\bin\Debug\net5.0\ref\git_test.dll
+C:\git_test\bin\Debug\net5.0\git_test.pdb
+C:\git_test\obj\Debug\net5.0\git_test.csproj.AssemblyReference.cache
+C:\git_test\obj\Debug\net5.0\git_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\git_test\obj\Debug\net5.0\git_test.AssemblyInfoInputs.cache
+C:\git_test\obj\Debug\net5.0\git_test.AssemblyInfo.cs
+C:\git_test\obj\Debug\net5.0\git_test.csproj.CoreCompileInputs.cache
+C:\git_test\obj\Debug\net5.0\git_test.dll
+C:\git_test\obj\Debug\net5.0\ref\git_test.dll
+C:\git_test\obj\Debug\net5.0\git_test.pdb
+C:\git_test\obj\Debug\net5.0\git_test.genruntimeconfig.cache
