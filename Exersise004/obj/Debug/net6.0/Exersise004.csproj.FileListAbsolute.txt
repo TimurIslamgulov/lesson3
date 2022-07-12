@@ -1,0 +1,15 @@
+C:\Users\משתמש\Desktop\Timur Homerwork1\lesson3\Exersise004\obj\Debug\net6.0\Exersise004.csproj.AssemblyReference.cache
+C:\Users\משתמש\Desktop\Timur Homerwork1\lesson3\Exersise004\obj\Debug\net6.0\Exersise004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש\Desktop\Timur Homerwork1\lesson3\Exersise004\obj\Debug\net6.0\Exersise004.AssemblyInfoInputs.cache
+C:\Users\משתמש\Desktop\Timur Homerwork1\lesson3\Exersise004\obj\Debug\net6.0\Exersise004.AssemblyInfo.cs
+C:\Users\משתמש\Desktop\Timur Homerwork1\lesson3\Exersise004\obj\Debug\net6.0\Exersise004.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\Desktop\Timur Homerwork1\lesson3\Exersise004\bin\Debug\net6.0\Exersise004.exe
+C:\Users\משתמש\Desktop\Timur Homerwork1\lesson3\Exersise004\bin\Debug\net6.0\Exersise004.deps.json
+C:\Users\משתמש\Desktop\Timur Homerwork1\lesson3\Exersise004\bin\Debug\net6.0\Exersise004.runtimeconfig.json
+C:\Users\משתמש\Desktop\Timur Homerwork1\lesson3\Exersise004\bin\Debug\net6.0\Exersise004.dll
+C:\Users\משתמש\Desktop\Timur Homerwork1\lesson3\Exersise004\bin\Debug\net6.0\Exersise004.pdb
+C:\Users\משתמש\Desktop\Timur Homerwork1\lesson3\Exersise004\obj\Debug\net6.0\Exersise004.dll
+C:\Users\משתמש\Desktop\Timur Homerwork1\lesson3\Exersise004\obj\Debug\net6.0\refint\Exersise004.dll
+C:\Users\משתמש\Desktop\Timur Homerwork1\lesson3\Exersise004\obj\Debug\net6.0\Exersise004.pdb
+C:\Users\משתמש\Desktop\Timur Homerwork1\lesson3\Exersise004\obj\Debug\net6.0\Exersise004.genruntimeconfig.cache
+C:\Users\משתמש\Desktop\Timur Homerwork1\lesson3\Exersise004\obj\Debug\net6.0\ref\Exersise004.dll
